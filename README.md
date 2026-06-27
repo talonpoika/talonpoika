@@ -22,6 +22,7 @@ I work **agent-first** with Claude Code — AI writes most of the code, I drive 
 | Project | What it is | Stack |
 |---|---|---|
 | **[pesisselostaja](https://github.com/midnight-builds/pesisselostaja)** | Finnish *pesäpallo* live-match announcer — browser app + Home Assistant voice, neural TTS | TypeScript · Vite · Vitest · Piper |
+| **[personal-finance-app](https://github.com/midnight-builds/personal-finance-app)** | Self-hosted single-user finance tracker — AI categorization, pattern detection & 3-month forecasting | TypeScript · Vite · Fastify · OpenAI |
 | **[home-realtime-assistant](https://github.com/talonpoika/home-realtime-assistant)** | Always-listening PWA voice assistant on the OpenAI Realtime API over WebRTC | TS monorepo · pnpm · Docker |
 | **[ha-heili-library-agent](https://github.com/talonpoika/ha-heili-library-agent)** | Home Assistant agent that auto-manages library loans & renewals | Python · Selenium · AppDaemon |
 
